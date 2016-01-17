@@ -4,5 +4,7 @@ This repository mainly contains my programming exercises in C. The online videos
 
 References:
 Learn C The Hard Way: http://c.learncodethehardway.org/book/.
+
 zentut C tutorial: http://www.zentut.com/c-tutorial/
+
 mycodeschool youtube series: https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA
